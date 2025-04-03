@@ -1,6 +1,6 @@
 import Navbar from "../../Components/Navbar/Navbar.jsx";
 import style from "./HomePage.module.css";
-import HeroImage from "../../assets/vikas.patel.jpg"
+import HeroImage from "../../assets/vikas.png"
 import { motion } from "framer-motion";
 
 function HomePage() {

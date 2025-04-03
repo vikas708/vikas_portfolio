@@ -21,32 +21,7 @@ import ImageEditor from '../../assets/ImageEditor.png';
 
 // Project data array
 const projectData = [
-  {
-    previewLink: "",
-    githubLink: "",
-    projectName: "BamApp3Youtubekidz",
-    projectDetails: "Bamaap3YouTubeKidz is a kid-friendly video platform that rewards children with badges for watching educational content.",
-    demoImage: "",
-    skills: [
-      "https://cdn.worldvectorlogo.com/logos/react-2.svg",
-      "https://cdn.worldvectorlogo.com/logos/html-1.svg",
-      "https://cdn.worldvectorlogo.com/logos/css-3.svg",
-      "https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
-    ]
-  },
-  {
-    previewLink: "",
-    githubLink: "",
-    projectName: "Jeddah House of commerce",
-    projectDetails: "Jeddah House of Commerce is a platform where company owners list debt-ridden businesses for potential buyers.",
-    demoImage: "",
-    skills: [
-      "https://cdn.worldvectorlogo.com/logos/react-2.svg",
-      "https://cdn.worldvectorlogo.com/logos/html-1.svg",
-      "https://cdn.worldvectorlogo.com/logos/css-3.svg",
-      "https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
-    ]
-  },
+ 
   {
     previewLink: "https://petwatchapp.com/",
     githubLink: "",
@@ -95,7 +70,33 @@ const projectData = [
       "https://cdn.worldvectorlogo.com/logos/css-3.svg",
       "https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
     ]
-  }
+  },
+  {
+    previewLink: "",
+    githubLink: "",
+    projectName: "BamApp3Youtubekidz",
+    projectDetails: "Bamaap3YouTubeKidz is a kid-friendly video platform that rewards children with badges for watching educational content.",
+    demoImage: "",
+    skills: [
+      "https://cdn.worldvectorlogo.com/logos/react-2.svg",
+      "https://cdn.worldvectorlogo.com/logos/html-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+      "https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
+    ]
+  },
+  {
+    previewLink: "",
+    githubLink: "",
+    projectName: "Jeddah House of commerce",
+    projectDetails: "Jeddah House of Commerce is a platform where company owners list debt-ridden businesses for potential buyers.",
+    demoImage: "",
+    skills: [
+      "https://cdn.worldvectorlogo.com/logos/react-2.svg",
+      "https://cdn.worldvectorlogo.com/logos/html-1.svg",
+      "https://cdn.worldvectorlogo.com/logos/css-3.svg",
+      "https://cdn.worldvectorlogo.com/logos/javascript-1.svg"
+    ]
+  },
 ];
 
 function Projects() {
